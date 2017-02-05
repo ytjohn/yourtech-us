@@ -14,3 +14,5 @@ We got all the things, and this is a test.
 I am adding this line through the wordpress online editor.  
 
 This line, I am adding from github. Will the webhook work?
+
+I had xml instead of application/json. So now I'm trying again on line 18 from github.
