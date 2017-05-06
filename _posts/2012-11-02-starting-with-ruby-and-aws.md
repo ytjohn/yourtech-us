@@ -2,10 +2,11 @@
 ID: 76
 post_title: Starting with Ruby and AWS
 author: ytjohn
-post_date: 2017-05-06 17:58:11
+post_date: 2012-11-02 17:58:11
 post_excerpt: ""
 layout: post
-permalink: https://www.yourtech.us/?p=76
+permalink: >
+  https://www.yourtech.us/2012/starting-with-ruby-and-aws
 published: true
 1:
   - 'a:1:{i:0;s:7:"=======";}'
