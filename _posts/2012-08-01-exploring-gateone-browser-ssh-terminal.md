@@ -2,10 +2,11 @@
 ID: 38
 post_title: Exploring GateOne Browser SSH terminal
 author: ytjohn
-post_date: 2017-05-06 17:58:09
+post_date: 2012-08-01 17:58:09
 post_excerpt: ""
 layout: post
-permalink: https://www.yourtech.us/?p=38
+permalink: >
+  https://www.yourtech.us/2012/exploring-gateone-browser-ssh-terminal
 published: true
 ---
 I came across a program called <a href="http://liftoffsoftware.com/Products/GateOne">Gate One</a> by LiftOff Software that
