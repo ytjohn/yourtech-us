@@ -2,10 +2,11 @@
 ID: 44
 post_title: Forgotten Realms
 author: ytjohn
-post_date: 2017-05-06 17:58:10
+post_date: 2009-09-30 17:58:10
 post_excerpt: ""
 layout: post
-permalink: https://www.yourtech.us/?p=44
+permalink: >
+  https://www.yourtech.us/2009/forgotten-realms
 published: true
 ---
 Yesterday I was working on a very old server -- a <a href="http://en.wikipedia.org/wiki/Cobalt_RaQ">Cobalt RAQ 4</a>.  I
