@@ -2,10 +2,11 @@
 ID: 36
 post_title: Expanding a raw image file
 author: ytjohn
-post_date: 2017-05-06 17:58:09
+post_date: 2011-01-13 17:58:09
 post_excerpt: ""
 layout: post
-permalink: https://www.yourtech.us/?p=36
+permalink: >
+  https://www.yourtech.us/2011/expanding-a-raw-image-file
 published: true
 ---
 On one of my customer's devices, the backup software requires that the
