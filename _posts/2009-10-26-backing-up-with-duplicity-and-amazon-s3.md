@@ -2,11 +2,11 @@
 ID: 7
 post_title: Backing up with duplicity and Amazon S3
 author: ytjohn
-post_date: 2017-05-06 17:58:08
+post_date: 2009-10-26 17:58:08
 post_excerpt: ""
 layout: post
 permalink: https://www.yourtech.us/?p=7
-published: false
+published: true
 ---
 [Duplicity] is a great little backup tool that can do incremental
 backups to a variety of different servers (ftp, scp, and Amazon S3).   
