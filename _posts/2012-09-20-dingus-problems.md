@@ -2,10 +2,11 @@
 ID: 30
 post_title: dingus problems
 author: ytjohn
-post_date: 2017-05-06 17:58:09
+post_date: 2012-09-20 17:58:09
 post_excerpt: ""
 layout: post
-permalink: https://www.yourtech.us/?p=30
+permalink: >
+  https://www.yourtech.us/2012/dingus-problems
 published: true
 ---
 This weekend I decided to takle both learning Ruby and working with AWS
