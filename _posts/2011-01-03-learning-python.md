@@ -2,10 +2,11 @@
 ID: 50
 post_title: Learning Python
 author: ytjohn
-post_date: 2017-05-06 17:58:10
+post_date: 2011-01-03 17:58:10
 post_excerpt: ""
 layout: post
-permalink: https://www.yourtech.us/?p=50
+permalink: >
+  https://www.yourtech.us/2011/learning-python
 published: true
 ---
 I am reasonably familiar with Perl and PHP languages.  Recently though,
