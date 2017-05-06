@@ -1,11 +1,12 @@
 ---
 ID: 62
-post_title: 'pysphere &#8211; VMWare in Python'
+post_title: 'pysphere: VMWare in Python'
 author: ytjohn
-post_date: 2017-05-06 17:58:10
+post_date: 2012-08-29 17:58:10
 post_excerpt: ""
 layout: post
-permalink: https://www.yourtech.us/?p=62
+permalink: >
+  https://www.yourtech.us/2012/pysphere-vmware-in-python
 published: true
 ---
 Tags: api, python, programming, vmware, pysphere
