@@ -2,10 +2,11 @@
 ID: 16
 post_title: All about git pull
 author: ytjohn
-post_date: 2017-05-06 17:58:09
+post_date: 2014-11-09 17:58:09
 post_excerpt: ""
 layout: post
-permalink: https://www.yourtech.us/?p=16
+permalink: >
+  https://www.yourtech.us/2014/all-about-git-pull
 published: true
 ---
 ## All about git pull
