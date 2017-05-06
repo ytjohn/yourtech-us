@@ -2,10 +2,11 @@
 ID: 60
 post_title: Puppet Dashboard and selinux
 author: ytjohn
-post_date: 2017-05-06 17:58:10
+post_date: 2012-06-25 17:58:10
 post_excerpt: ""
 layout: post
-permalink: https://www.yourtech.us/?p=60
+permalink: >
+  https://www.yourtech.us/2012/puppet-dashboard-and-selinux
 published: true
 ---
 Tags: puppet selinux
