@@ -1,5 +1,4 @@
 ---
-ID: 25
 post_title: Salt The Earth
 author: ytjohn
 post_date: 2014-04-29 22:10:00

@@ -1,5 +1,4 @@
 ---
-ID: 53
 post_title: Test GH Post
 author: ytjohn
 post_date: 2017-02-05 21:04:21

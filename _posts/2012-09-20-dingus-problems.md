@@ -1,5 +1,4 @@
 ---
-ID: 31
 post_title: dingus problems
 author: ytjohn
 post_date: 2012-09-20 11:50:00

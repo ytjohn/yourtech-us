@@ -1,5 +1,4 @@
 ---
-ID: 22
 post_title: All about git pull
 author: ytjohn
 post_date: 2014-11-09 15:06:24

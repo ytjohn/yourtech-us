@@ -1,5 +1,4 @@
 ---
-ID: 21
 post_title: Everday Superadmin
 author: ytjohn
 post_date: 2015-02-05 13:53:44

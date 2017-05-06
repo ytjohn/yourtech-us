@@ -1,5 +1,4 @@
 ---
-ID: 13
 post_title: Worst Practice Lab VM Automation
 author: ytjohn
 post_date: 2016-09-05 21:53:22

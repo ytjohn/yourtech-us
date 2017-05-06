@@ -1,5 +1,4 @@
 ---
-ID: 17
 post_title: Programming Uniden AMH-350 for APRS
 author: ytjohn
 post_date: 2015-08-03 04:30:30
