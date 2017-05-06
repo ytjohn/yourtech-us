@@ -2,10 +2,11 @@
 ID: 46
 post_title: Gate One supervisor script
 author: ytjohn
-post_date: 2017-05-06 17:58:10
+post_date: 2012-08-02 17:58:10
 post_excerpt: ""
 layout: post
-permalink: https://www.yourtech.us/?p=46
+permalink: >
+  https://www.yourtech.us/2012/gate-one-supervisor-script
 published: true
 ---
 Yesterday, I <a href="http://blog.yourtech.us/2012/08/exploring-gateone-browser-ssh-terminal.html">setup gateone</a> to run as a non-root user. I also spent
