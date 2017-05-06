@@ -2,10 +2,11 @@
 ID: 20
 post_title: Bootstrap and CDNs
 author: ytjohn
-post_date: 2017-05-06 17:58:09
+post_date: 2012-09-18 17:58:09
 post_excerpt: ""
 layout: post
-permalink: https://www.yourtech.us/?p=20
+permalink: >
+  https://www.yourtech.us/2012/bootstrap-and-cdns
 published: true
 ---
 Often when creating a "modern" web page, it's very common to find yourself reinventing the wheel over and over again. I know any time I wanted to create a two-column layout, I would have to look at previous works of mine or search the Internet for a decent example. However, I recently came across Twitter's <a href="http://twitter.github.com/bootstrap/index.html" title="Twitter Bootstrap">Bootstrap</a> framework. At it's core, it's just a css file that divide your web page into a 12-column "<a href="http://twitter.github.com/bootstrap/scaffolding.html#grid">grid</a>". You create a "row" div, and inside that row you place your "span*" columns. Each span element spans from 1 to 12 columns, and should always add up to 12 for each row. You can also offset columns. There are css classes for large displays (1200px or higher), normal/default displays (980px), and smaller displays such as tablets (768px) or phones (480px). Elements can be made visible or hidden based on the device acessing the site (phone, tablet, or desktop). There is also a <a href="http://twitter.github.com/bootstrap/javascript.html" title="Bootstrap Javascript">javascript</a> component you can use for making the page more interactive.
