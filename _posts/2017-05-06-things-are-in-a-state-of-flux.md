@@ -8,6 +8,9 @@ layout: post
 permalink: https://www.yourtech.us/?p=5
 published: true
 ---
+UPDATE: Content has been re-added, but the published date information is still being corrected.
+
+
 I am migrating the site to a new server and from mezzanine to wordpress. 
 
 There's always a few thins to work out, and I should be able to restore the content sometime this weekend.
