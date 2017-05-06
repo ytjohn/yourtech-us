@@ -2,10 +2,11 @@
 ID: 80
 post_title: Using puppet to install djbdns
 author: ytjohn
-post_date: 2017-05-06 17:58:11
+post_date: 2012-06-22 17:58:11
 post_excerpt: ""
 layout: post
-permalink: https://www.yourtech.us/?p=80
+permalink: >
+  https://www.yourtech.us/2012/using-puppet-to-install-djbdns
 published: true
 ---
 This is a basic walkthrough of getting a slightly complex "step by step
