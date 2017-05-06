@@ -2,7 +2,7 @@
 ID: 66
 post_title: Python Modules and Single App OS
 author: ytjohn
-post_date: 2017-05-06 17:58:11
+post_date: 2014-09-17 17:58:11
 post_excerpt: ""
 layout: post
 permalink: https://www.yourtech.us/?p=66
