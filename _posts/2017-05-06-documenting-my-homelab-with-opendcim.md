@@ -1,12 +1,14 @@
 ---
+ID: 110
 post_title: documenting my homelab with openDCIM
 author: ytjohn
-post_date: 2017-03-28 03:37:21
+post_date: 2017-05-06 21:50:36
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.yourtech.us/2017/documenting-my-homelab-with-opendcim
 published: true
 ---
-
 ## Background
 
 I've been wanting to document my home and homelab network for a while now. I used to keep some individual files around with a list of ip addresses and networks, and I used to have a yaml file with the network laid out. But a lot of it was out of date and any time I made a significant change (like adding vlans or tagged interfaces), the entire format would need to change.  I've also been planning to redo how my network is laid out and realized I would have to document everything before I could really work on the new scenario. But overall, these projects have been at the very bottom of the list, kind of kicked under the rug.

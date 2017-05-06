@@ -1,9 +1,12 @@
 ---
+ID: 114
 post_title: Down 6 pounds
 author: ytjohn
-post_date: 2017-04-13 12:58:30
+post_date: 2017-05-06 21:50:37
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.yourtech.us/2017/down-6-pounds
 published: true
 ---
 At the beginning of this month, I said enough is enough and I forced myself back onto the slow carb diet. Slow carb is really another fancy name for low carbs, but it makes a distinction between complex and simple carbs. You also get a cheat day.
