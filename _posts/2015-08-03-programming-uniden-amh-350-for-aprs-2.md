@@ -2,10 +2,11 @@
 ID: 84
 post_title: Programming Uniden AMH-350 for APRS
 author: ytjohn
-post_date: 2017-05-06 17:58:11
+post_date: 2015-08-03 17:58:11
 post_excerpt: ""
 layout: post
-permalink: https://www.yourtech.us/?p=84
+permalink: >
+  https://www.yourtech.us/2015/programming-uniden-amh-350-for-aprs-2
 published: true
 ---
 This is a narrative post. If you want to see my python program that calculates out the diode matrix, skip to the end or [click here](http://nbviewer.ipython.org/gist/ytjohn/719504772237953eb28d),
