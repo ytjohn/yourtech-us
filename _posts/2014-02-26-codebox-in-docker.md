@@ -2,10 +2,11 @@
 ID: 28
 post_title: Codebox in Docker
 author: ytjohn
-post_date: 2017-05-06 17:58:09
+post_date: 2014-02-26 17:58:09
 post_excerpt: ""
 layout: post
-permalink: https://www.yourtech.us/?p=28
+permalink: >
+  https://www.yourtech.us/2014/codebox-in-docker
 published: true
 1:
   - 'a:1:{i:0;s:7:"=======";}'
