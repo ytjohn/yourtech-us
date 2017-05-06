@@ -2,7 +2,7 @@
 ID: 110
 post_title: documenting my homelab with openDCIM
 author: ytjohn
-post_date: 2017-05-06 21:50:36
+post_date: 2017-03-28 21:50:36
 post_excerpt: ""
 layout: post
 permalink: >
