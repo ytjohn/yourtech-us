@@ -2,10 +2,11 @@
 ID: 42
 post_title: Foreman managed virtual datacenter
 author: ytjohn
-post_date: 2017-05-06 17:58:10
+post_date: 2013-07-28 17:58:10
 post_excerpt: ""
 layout: post
-permalink: https://www.yourtech.us/?p=42
+permalink: >
+  https://www.yourtech.us/2013/foreman-managed-virtual-datacenter-2
 published: true
 1:
   - 'a:1:{i:0;s:7:"=======";}'
