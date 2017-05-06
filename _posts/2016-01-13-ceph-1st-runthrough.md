@@ -2,10 +2,11 @@
 ID: 24
 post_title: Ceph 1st Runthrough
 author: ytjohn
-post_date: 2017-05-06 17:58:09
+post_date: 2016-01-13 17:58:09
 post_excerpt: ""
 layout: post
-permalink: https://www.yourtech.us/?p=24
+permalink: >
+  https://www.yourtech.us/2016/ceph-1st-runthrough
 published: true
 1:
   - 'a:1:{i:0;s:7:"=======";}'
