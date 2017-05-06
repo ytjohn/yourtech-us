@@ -2,10 +2,11 @@
 ID: 82
 post_title: We have moved!
 author: ytjohn
-post_date: 2017-05-06 17:58:11
+post_date: 2010-09-06 17:58:11
 post_excerpt: ""
 layout: post
-permalink: https://www.yourtech.us/?p=82
+permalink: >
+  https://www.yourtech.us/2010/we-have-moved
 published: true
 ---
 Starting around Memorial Day, we have been busy working on moving our
