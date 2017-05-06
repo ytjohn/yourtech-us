@@ -2,11 +2,11 @@
 ID: 106
 post_title: Worst Practice Lab VM Automation
 author: ytjohn
-post_date: 2017-05-06 21:50:36
+post_date: 2016-09-05 21:50:36
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.yourtech.us/2017/worst-practice-lab-vm-automation
+  https://www.yourtech.us/2016/worst-practice-lab-vm-automation
 published: true
 ---
 # Worst Practice Lab VM Automation
@@ -16,13 +16,12 @@ many (including myself) would consider "worst practices", but are more along the
 is to get something working in a short period of time, without spending hours, days, or weeks researching best practices.
 This is instead something someone can put together on a Sunday afternoon, in between chasing after a 3 year old.
 
-These are a handful of manual steps, each of which could be easily automated once you determine your "starting point". 
+These are a handful of manual steps, each of which could be easily automated once you determine your "starting point".
 
-*Background:* When I clone a VM in proxmox, it comes up with the hostname "xenial-template". I should be able to do something like I do with cloud-init under kvm, but I haven't gotten that far under the proxmox setup. Additionally, these hosts are not in dns until they are entered into the freeipa server. Joining a client to IPA will automatically create the entry. So the first thing I need to do to any VM is to set the hostname, fqdn, and then register it with IPA.  My template
+*Background:* When I clone a VM in proxmox, it comes up with the hostname "xenial-template". I should be able to do something like I do with cloud-init under kvm, but I haven't gotten that far under the proxmox setup. Additionally, these hosts are not in dns until they are entered into the freeipa server. Joining a client to IPA will automatically create the entry. So the first thing I need to do to any VM is to set the hostname, fqdn, and then register it with IPA. My template
 has a user called "yourtech", which I can use to login and configure the VM.
 
-First, create an ansible vault password file: `echo secret> ~/.vault_pass.txt`. Next, create an and inventory directory and setup an encrypted `group_vars/all`.
-
+First, create an ansible vault password file: `echo secret&gt; ~/.vault_pass.txt`. Next, create an and inventory directory and setup an encrypted `group_vars/all`.
 
 ```
 mkdir -p inventory/group_vars
@@ -44,13 +43,11 @@ freeipaclient_enroll_pass: supersecret
 
 Then encrypt it: `ansible-vault --vault-password-file=~/.vault_pass.txt encrypt inventory/group_vars/all`
 
-
 ## Generate inventory files.
 
-With the following script, I can run `./add-new.sh example 192.168.0.121`. If ansible failes, then I need to 
+With the following script, I can run `./add-new.sh example 192.168.0.121`. If ansible failes, then I need to
 troubleshoot. A better approach would be to add these entries into a singular inventory file, or better yet,
 a database, providing a constantly updated and dynamic inventory. Put that on the later pile.
-
 
 ```
 #!/usr/bin/env bash
@@ -66,7 +63,7 @@ LINE="${FQDN} ansible_host=${IP}"
 
 export ANSIBLE_HOST_KEY_CHECKING=False
 
-echo ${LINE} > ${FILENAME}
+echo ${LINE} &gt; ${FILENAME}
 
 echo "Removing any prior host keys"
 ssh-keygen -R ${NEWNAME}
@@ -83,11 +80,9 @@ At this point, I should have a working inventory file for a single host and I've
 connect. Granted, I haven't tested `sudo`, but in my situation, I'm pretty sure that will work. But I haven't
 actually done anything with the VM. It's still just this default template.
 
-
-
 ## FQDN
 
-Ansible provides a module to set the hostname, but does not modify `/etc/hosts` to get the FQDN resolving. As with 
+Ansible provides a module to set the hostname, but does not modify `/etc/hosts` to get the FQDN resolving. As with
 many things, I'm not the first to encounter this, so I found a premade role [holms/ansible-fqdn](https://github.com/holms/ansible-fqdn.git).
 
 ```
@@ -114,15 +109,15 @@ think that's just amazing luck.
 
 ## Make a playbook.
 
-I call mine `bootstrap.yml`.  
+I call mine `bootstrap.yml`.
 
 ```
 ---
 - hosts: all
-  become: yes
-  roles:
-     - fqdn
-     - freeipa
+become: yes
+roles:
+- fqdn
+- freeipa
 ```
 
 ## Execute
@@ -133,7 +128,7 @@ Let's run our playbook against host "pgdb02"
 
 *Output:*
 ```
-ytjohn@corp5510l:~/projects/ytlab$ ansible-playbook -i inventory/pgdb02 --vault-password-file=~/.vault_pass.txt base.yml 
+ytjohn@corp5510l:~/projects/ytlab$ ansible-playbook -i inventory/pgdb02 --vault-password-file=~/.vault_pass.txt base.yml
 
 PLAY ***************************************************************************
 
@@ -179,7 +174,7 @@ TASK [freeipa : Update apt cache] **********************************************
 ok: [pgdb02.lab.ytnoc.net]
 
 TASK [freeipa : Install required packages] *************************************
- changed: [pgdb02.lab.ytnoc.net] => (item=[u'freeipa-client', u'dnsutils'])
+changed: [pgdb02.lab.ytnoc.net] =&gt; (item=[u'freeipa-client', u'dnsutils'])
 
 TASK [freeipa : Check if host is enrolled] *************************************
 ok: [pgdb02.lab.ytnoc.net]
@@ -203,22 +198,20 @@ RUNNING HANDLER [freeipa : restart ssh] ****************************************
 changed: [pgdb02.lab.ytnoc.net]
 
 PLAY RECAP *********************************************************************
-pgdb02.lab.ytnoc.net       : ok=18   changed=8    unreachable=0    failed=0   
+pgdb02.lab.ytnoc.net : ok=18 changed=8 unreachable=0 failed=0
 ```
-
 
 # Recap
 
 Essentially, we created a rather basic inventory generator script, we encrypted some
 credentials into a variables file using ansible-vault, and we downloaded some roles
-&quot;off the shelf&quot; and executed them both with a single &quot;bootstrap&quot; playbook. 
+&quot;off the shelf&quot; and executed them both with a single &quot;bootstrap&quot; playbook.
 
 If I was doing this for work, I would first create at least one Vagrant VM and work through
 an entire development cycle. I would probably rewrite these roles I downloaded to make them
-more flexible and variable driven. 
+more flexible and variable driven.
 
 In case you got lost where these files go:
-
 
 ```
 .
@@ -231,6 +224,6 @@ In case you got lost where these files go:
 │   ├── pgdb02
 │   └── sstorm01
 └── roles
-    ├── fqdn
-    └── freeipa
+├── fqdn
+└── freeipa
 ```
