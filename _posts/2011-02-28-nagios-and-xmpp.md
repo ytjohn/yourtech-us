@@ -2,10 +2,11 @@
 ID: 54
 post_title: Nagios and XMPP
 author: ytjohn
-post_date: 2017-05-06 17:58:10
+post_date: 2011-02-28 17:58:10
 post_excerpt: ""
 layout: post
-permalink: https://www.yourtech.us/?p=54
+permalink: >
+  https://www.yourtech.us/2011/nagios-and-xmpp
 published: true
 ---
 I found that someone has written a perl script geared towards sending
