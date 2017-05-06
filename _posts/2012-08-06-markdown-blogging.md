@@ -2,10 +2,11 @@
 ID: 52
 post_title: Markdown Blogging
 author: ytjohn
-post_date: 2017-05-06 17:58:10
+post_date: 2012-08-06 17:58:10
 post_excerpt: ""
 layout: post
-permalink: https://www.yourtech.us/?p=52
+permalink: >
+  https://www.yourtech.us/2012/markdown-blogging
 published: true
 ---
 I recently have started a process of migrating my website over to
