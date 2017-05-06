@@ -2,10 +2,11 @@
 ID: 5
 post_title: things are in a state of flux
 author: ytjohn
-post_date: 2017-05-06 14:05:14
+post_date: 2017-05-06 14:11:14
 post_excerpt: ""
 layout: post
-permalink: https://www.yourtech.us/?p=5
+permalink: >
+  https://www.yourtech.us/2017/things-are-in-a-state-of-flux
 published: true
 ---
 UPDATE: Content has been re-added, but the published date information is still being corrected.
