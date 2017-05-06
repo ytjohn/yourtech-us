@@ -2,10 +2,11 @@
 ID: 68
 post_title: Radio Musings
 author: ytjohn
-post_date: 2017-05-06 17:58:11
+post_date: 2014-10-18 17:58:11
 post_excerpt: ""
 layout: post
-permalink: https://www.yourtech.us/?p=68
+permalink: >
+  https://www.yourtech.us/2014/radio-musings
 published: true
 post-date:
   - 'a:1:{i:0;s:37:"a:1:{i:0;s:19:"2014-10-17 22:25:21";}";}'
