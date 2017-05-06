@@ -2,10 +2,11 @@
 ID: 78
 post_title: Upgrade Redmine
 author: ytjohn
-post_date: 2017-05-06 17:58:11
+post_date: 2012-08-09 17:58:11
 post_excerpt: ""
 layout: post
-permalink: https://www.yourtech.us/?p=78
+permalink: >
+  https://www.yourtech.us/2012/upgrade-redmine
 published: true
 ---
 Currently, I have Redmine version redmine 1.3.3 installed via the
