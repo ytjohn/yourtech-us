@@ -2,10 +2,11 @@
 ID: 56
 post_title: postgresql hstore is easy to compare
 author: ytjohn
-post_date: 2017-05-06 17:58:10
+post_date: 2015-08-23 17:58:10
 post_excerpt: ""
 layout: post
-permalink: https://www.yourtech.us/?p=56
+permalink: >
+  https://www.yourtech.us/2015/postgresql-hstore-is-easy-to-compare
 published: true
 ---
 hstore is an option key=>value column type that's been around in postgresql for a long time. I was looking at it for a project where I want to compare "new data" to old, so I can approve it. There is a `hstore-hstore` option that compares two hstore collections and shows the differences.
