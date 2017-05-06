@@ -2,7 +2,7 @@
 ID: 72
 post_title: Salt The Earth
 author: ytjohn
-post_date: 2017-05-06 17:58:11
+post_date: 2014-04-29 17:58:11
 post_excerpt: ""
 layout: post
 permalink: https://www.yourtech.us/?p=72
