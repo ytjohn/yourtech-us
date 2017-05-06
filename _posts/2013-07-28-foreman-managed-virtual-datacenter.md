@@ -2,10 +2,11 @@
 ID: 40
 post_title: Foreman managed virtual datacenter
 author: ytjohn
-post_date: 2017-05-06 17:58:10
+post_date: 2013-07-28 17:58:10
 post_excerpt: ""
 layout: post
-permalink: https://www.yourtech.us/?p=40
+permalink: >
+  https://www.yourtech.us/2013/foreman-managed-virtual-datacenter
 published: true
 Tags:
   - 'a:1:{i:0;s:49:"a:1:{i:0;s:31:"foreman, puppet, libvirt, virsh";}";}'
