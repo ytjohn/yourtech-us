@@ -2,10 +2,11 @@
 ID: 48
 post_title: Jabbering about Python
 author: ytjohn
-post_date: 2017-05-06 17:58:10
+post_date: 2011-02-27 17:58:10
 post_excerpt: ""
 layout: post
-permalink: https://www.yourtech.us/?p=48
+permalink: >
+  https://www.yourtech.us/2011/jabbering-about-python
 published: true
 ---
 I am getting more and more into the idea of using XMPP for sending
