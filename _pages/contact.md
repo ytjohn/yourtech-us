@@ -1,11 +1,11 @@
 ---
-ID: 7
+ID: 11
 post_title: Contact
 author: ytjohn
-post_date: 2017-02-05 16:13:49
+post_date: 2017-05-06 17:58:09
 post_excerpt: ""
 layout: page
-permalink: http://devblog.yourtech.us/contact/
+permalink: https://www.yourtech.us/?page_id=11
 published: true
 ---
 <img src="http://www.gravatar.com/avatar/26ec2a20892eab20866c6dffe2b3166e.png" title="John Hogenmiller" alt="gravatar icon" style="float: right;"><b>John Hogenmiller</b>

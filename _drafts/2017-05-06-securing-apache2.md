@@ -1,11 +1,11 @@
 ---
-ID: 151
+ID: 9
 post_title: Securing Apache2
 author: ytjohn
-post_date: 2017-05-06 17:20:06
+post_date: 2017-05-06 17:58:09
 post_excerpt: ""
 layout: post
-permalink: http://devblog.yourtech.us/?p=151
+permalink: https://www.yourtech.us/?p=9
 published: false
 ---
 A client wanted to make files available available to the web browser

@@ -1,12 +1,11 @@
 ---
-ID: 203
+ID: 34
 post_title: Everyday Superadmin
 author: ytjohn
-post_date: 2017-05-06 17:20:10
+post_date: 2017-05-06 17:58:09
 post_excerpt: ""
 layout: post
-permalink: >
-  http://devblog.yourtech.us/blog/everyday-superadmin/
+permalink: https://www.yourtech.us/?p=34
 published: true
 ---
 Every morning I wake up bleary eyed  

@@ -1,11 +1,11 @@
 ---
-ID: 149
+ID: 7
 post_title: Backing up with duplicity and Amazon S3
 author: ytjohn
-post_date: 2017-05-06 17:20:06
+post_date: 2017-05-06 17:58:08
 post_excerpt: ""
 layout: post
-permalink: http://devblog.yourtech.us/?p=149
+permalink: https://www.yourtech.us/?p=7
 published: false
 ---
 [Duplicity] is a great little backup tool that can do incremental
@@ -98,7 +98,7 @@ of rogue system admins at Amazon).
     
 At this point, let me interrupt and talk about the Passphrase. You can
 make this anything, but I would recommend avoiding special characters
-(especially dealing with <> ' " \ ` ) that might be interpreted by
+(especially dealing with <> ' "  ` ) that might be interpreted by
 your system shell. I generated a 15 character password [online] using
 only numbers, letters, and LETTERS. You will need to keep track of the
 password - you will need it later when you write the backup script.   
