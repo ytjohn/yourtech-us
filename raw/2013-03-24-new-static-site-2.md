@@ -1,5 +1,5 @@
 ---
-ID: 77
+
 post_title: New Static Site
 author: ytjohn
 post_date: 2013-03-24 16:00:00

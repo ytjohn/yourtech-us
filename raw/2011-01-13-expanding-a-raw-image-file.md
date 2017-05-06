@@ -1,5 +1,5 @@
 ---
-ID: 92
+
 post_title: Expanding a raw image file
 author: ytjohn
 post_date: 2011-01-13 05:57:00

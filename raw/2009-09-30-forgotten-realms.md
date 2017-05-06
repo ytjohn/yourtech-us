@@ -1,5 +1,5 @@
 ---
-ID: 97
+
 post_title: Forgotten Realms
 author: ytjohn
 post_date: 2009-09-30 15:00:00

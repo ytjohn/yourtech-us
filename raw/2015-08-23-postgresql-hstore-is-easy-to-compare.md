@@ -1,5 +1,5 @@
 ---
-ID: 16
+
 post_title: postgresql hstore is easy to compare
 author: ytjohn
 post_date: 2015-08-23 00:32:56

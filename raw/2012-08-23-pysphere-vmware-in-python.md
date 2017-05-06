@@ -1,5 +1,5 @@
 ---
-ID: 82
+
 post_title: 'pysphere &#8211; VMWare in Python'
 author: ytjohn
 post_date: 2012-08-23 21:30:00

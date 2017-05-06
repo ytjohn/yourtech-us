@@ -1,5 +1,5 @@
 ---
-ID: 26
+
 post_title: Codebox in Docker
 author: ytjohn
 post_date: 2014-02-26 16:00:00

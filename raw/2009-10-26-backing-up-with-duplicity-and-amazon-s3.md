@@ -1,5 +1,5 @@
 ---
-ID: 96
+
 post_title: Backing up with duplicity and Amazon S3
 author: ytjohn
 post_date: 2009-10-26 16:00:00

@@ -1,5 +1,5 @@
 ---
-ID: 28
+
 post_title: Foreman managed virtual datacenter
 author: ytjohn
 post_date: 2013-07-28 15:00:00

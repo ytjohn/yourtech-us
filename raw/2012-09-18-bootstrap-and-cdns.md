@@ -1,5 +1,5 @@
 ---
-ID: 80
+
 post_title: Bootstrap and CDNs
 author: ytjohn
 post_date: 2012-09-18 17:26:00

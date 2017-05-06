@@ -1,5 +1,5 @@
 ---
-ID: 81
+
 post_title: python console import tip
 author: ytjohn
 post_date: 2012-08-29 17:30:00

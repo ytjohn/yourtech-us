@@ -1,5 +1,5 @@
 ---
-ID: 63
+
 post_title: Ceph 1st Runthrough
 author: ytjohn
 post_date: 2016-01-13 18:00:00

@@ -1,5 +1,5 @@
 ---
-ID: 14
+
 post_title: Ceph getting acquainted
 author: ytjohn
 post_date: 2016-01-20 18:00:00

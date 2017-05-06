@@ -1,5 +1,5 @@
 ---
-ID: 90
+
 post_title: Nagios and XMPP
 author: ytjohn
 post_date: 2011-02-28 16:00:00

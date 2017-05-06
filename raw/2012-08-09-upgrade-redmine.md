@@ -1,5 +1,5 @@
 ---
-ID: 83
+
 post_title: Upgrade Redmine
 author: ytjohn
 post_date: 2012-08-09 02:00:00

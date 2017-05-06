@@ -1,5 +1,5 @@
 ---
-ID: 84
+
 post_title: Markdown Blogging
 author: ytjohn
 post_date: 2012-08-06 15:00:00

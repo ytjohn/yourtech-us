@@ -1,5 +1,5 @@
 ---
-ID: 98
+
 post_title: Back into programming, monitoring notes
 author: ytjohn
 post_date: 2009-08-25 15:00:00

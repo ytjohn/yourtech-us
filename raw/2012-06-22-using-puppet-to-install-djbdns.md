@@ -1,5 +1,5 @@
 ---
-ID: 88
+
 post_title: Using puppet to install djbdns
 author: ytjohn
 post_date: 2012-06-22 11:30:00

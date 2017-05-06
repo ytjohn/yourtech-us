@@ -1,5 +1,5 @@
 ---
-ID: 87
+
 post_title: Puppet Dashboard and selinux
 author: ytjohn
 post_date: 2012-06-25 15:00:00

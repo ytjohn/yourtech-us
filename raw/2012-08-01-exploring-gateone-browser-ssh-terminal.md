@@ -1,5 +1,5 @@
 ---
-ID: 86
+
 post_title: Exploring GateOne Browser SSH terminal
 author: ytjohn
 post_date: 2012-08-01 11:09:00

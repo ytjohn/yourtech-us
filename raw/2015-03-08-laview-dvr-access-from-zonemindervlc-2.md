@@ -1,5 +1,5 @@
 ---
-ID: 66
+
 post_title: LaView DVR access from zoneminder/vlc
 author: ytjohn
 post_date: 2015-03-08 13:40:39

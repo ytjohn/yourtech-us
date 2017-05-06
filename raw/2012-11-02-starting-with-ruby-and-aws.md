@@ -1,5 +1,5 @@
 ---
-ID: 30
+
 post_title: Starting with Ruby and AWS
 author: ytjohn
 post_date: 2012-11-02 23:29:00

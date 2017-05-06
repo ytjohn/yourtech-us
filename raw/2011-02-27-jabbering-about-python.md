@@ -1,5 +1,5 @@
 ---
-ID: 91
+
 post_title: Jabbering about Python
 author: ytjohn
 post_date: 2011-02-27 11:11:00

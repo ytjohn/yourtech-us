@@ -1,5 +1,5 @@
 ---
-ID: 93
+
 post_title: Learning Python
 author: ytjohn
 post_date: 2011-01-03 16:00:00

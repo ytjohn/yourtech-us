@@ -1,5 +1,5 @@
 ---
-ID: 85
+
 post_title: Gate One supervisor script
 author: ytjohn
 post_date: 2012-08-02 06:10:00

@@ -1,5 +1,5 @@
 ---
-ID: 67
+
 post_title: rPI DPI Display, cheap.
 author: ytjohn
 post_date: 2015-03-06 13:55:52

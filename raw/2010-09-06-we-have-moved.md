@@ -1,5 +1,5 @@
 ---
-ID: 94
+
 post_title: We have moved!
 author: ytjohn
 post_date: 2010-09-06 15:00:00

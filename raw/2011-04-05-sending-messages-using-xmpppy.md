@@ -1,5 +1,5 @@
 ---
-ID: 89
+
 post_title: Sending messages using xmpppy
 author: ytjohn
 post_date: 2011-04-05 15:00:00
