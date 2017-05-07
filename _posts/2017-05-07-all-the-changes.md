@@ -1,11 +1,14 @@
 ---
+ID: 146
 post_title: All The Changes
 author: ytjohn
-post_date: 2017-05-07
+post_date: 2017-05-07 13:52:40
+post_excerpt: ""
 layout: post
+permalink: >
+  https://www.yourtech.us/2017/all-the-changes
 published: true
 ---
-
 ## tl;dr
 
 Here's a quick summary of changes that have taken place:
