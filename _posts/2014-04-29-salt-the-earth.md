@@ -5,7 +5,8 @@ author: ytjohn
 post_date: 2014-04-29 17:58:11
 post_excerpt: ""
 layout: post
-permalink: https://www.yourtech.us/?p=72
+permalink: >
+  https://www.yourtech.us/2014/salt-the-earth
 published: true
 ---
 ## Learning Salt
