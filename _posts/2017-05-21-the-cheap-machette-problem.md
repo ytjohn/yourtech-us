@@ -9,7 +9,7 @@ permalink: >
   https://www.yourtech.us/2017/the-cheap-machette-problem
 published: true
 ---
-This weekend, I was finally clearing out the bit of walk between my pole barn and the hill behind it. Erosion has been filling it in, making it hard to get back there with any sort of push mower. <a href="https://goo.gl/photos/pRGa5a1JmA837pSh9">Vines and brush have been filling in around it</a>. I did what I could with the trimmer, then I went back in with the machete. Now, this machete was $6 at Harbor Freight and I haven't used it much because the cheap plastic handle was starting to break. 
+This weekend, I was finally clearing out the bit of walk between my pole barn and the hill behind it. Erosion has been filling it in, making it hard to get back there with any sort of push mower. Vines and brush have been filling in around it. I did what I could with the trimmer, then I went back in with the machete. Now, this machete was $6 at Harbor Freight and I haven't used it much because the cheap plastic handle was starting to break. 
 
 <a href="https://static.yourtech.us/yt/uploads/2017/05/behind-the-pole-barn.jpg"><img src="https://static.yourtech.us/yt/uploads/2017/05/behind-the-pole-barn-169x300.jpg" alt="" width="169" height="300" class="alignleft size-medium wp-image-168" /></a>
 
