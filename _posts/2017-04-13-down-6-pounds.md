@@ -20,4 +20,4 @@ I have been almost exclusively eating steak salads (from Sheetz and Ed's) and av
 
 I know for long term weight loss, it's recommended to focus on 1lb a week, but I've been reading up on this and more and more people are agreeing that a quick drop in weight at the beginning is more motivating. After loosing 6.6lbs in 2 weeks, I have to agree.
 
-<img src="http://i.imgur.com/D9NaDVzl.png" alt="weight loss chart" />
+<img src="https://i.imgur.com/D9NaDVzl.png" alt="weight loss chart" />
