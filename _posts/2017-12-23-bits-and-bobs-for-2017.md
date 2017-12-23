@@ -36,9 +36,9 @@ I decided to try out a more expensive hardware NVR. First I tried an [Amcrest NV
 
 </p>
 
-<p>The mobile app is a dream. 
+<p>The mobile app is a dream. </p>
 
-
+<p>
 <a href="https://static.yourtech.us/yt/uploads/2017/12/Screenshot_2017-12-23-13-29-05.jpg"><img src="https://static.yourtech.us/yt/uploads/2017/12/Screenshot_2017-12-23-13-29-05-300x169.jpg" alt="" width="300" height="169" class="alignleft size-medium wp-image-539" /></a>
 
 <a href="https://static.yourtech.us/yt/uploads/2017/12/Screenshot_2017-12-23-13-25-03.jpg"><img src="https://static.yourtech.us/yt/uploads/2017/12/Screenshot_2017-12-23-13-25-03-300x169.jpg" alt="" width="300" height="169" class="alignright size-medium wp-image-540" /></a>
