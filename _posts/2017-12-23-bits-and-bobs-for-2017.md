@@ -33,12 +33,14 @@ I decided to try out a more expensive hardware NVR. First I tried an [Amcrest NV
 
 <a href="https://static.yourtech.us/yt/uploads/2017/12/qseebigscreen.jpg"><img src="https://static.yourtech.us/yt/uploads/2017/12/qseebigscreen-300x169.jpg" alt="" width="300" height="169" class="alignleft size-medium wp-image-538" /></a>
 
+
 The mobile app is a dream. 
 
-
+<p>
 <a href="https://static.yourtech.us/yt/uploads/2017/12/Screenshot_2017-12-23-13-29-05.jpg"><img src="https://static.yourtech.us/yt/uploads/2017/12/Screenshot_2017-12-23-13-29-05-300x169.jpg" alt="" width="300" height="169" class="alignleft size-medium wp-image-539" /></a>
 
-<a href="https://static.yourtech.us/yt/uploads/2017/12/Screenshot_2017-12-23-13-25-03.jpg"><img src="https://static.yourtech.us/yt/uploads/2017/12/Screenshot_2017-12-23-13-25-03-300x169.jpg" alt="" width="300" height="169" class="alignleft size-medium wp-image-540" /></a>
+<a href="https://static.yourtech.us/yt/uploads/2017/12/Screenshot_2017-12-23-13-25-03.jpg"><img src="https://static.yourtech.us/yt/uploads/2017/12/Screenshot_2017-12-23-13-25-03-300x169.jpg" alt="" width="300" height="169" class="alignright size-medium wp-image-540" /></a>
+</p>
 
 Downsides: There is a downside in that accessing it with a web browser sucks - on MacOS it requires Safari and a binary plugin. However, they do have desktop clients for Mac and Windows. Once again, Linux is left out in the cold. I might still end up running Shinobi against the QTSee (or the cams directly) for a simple remote web interface. 
 
