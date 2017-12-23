@@ -32,7 +32,7 @@ The problem is that I keep finding zoneminder in some broken state. I also am no
 I decided to try out a more expensive hardware NVR. First I tried an [Amcrest NVR](http://a.co/5bAcDI4), but it couldn't work with any of my existing cameras. Returned. I have a colleague that is a big fan of Q-See Analog DVRs, and the mobile app is pretty slick. I found a good deal on a [refurbished 16-channel NVR for $250 with a 2TB hard drive included](http://a.co/gdkgDtR). This was an instant success. It picked up my ESCAM right away and starts recording.
 
 <p>
-<a href="https://static.yourtech.us/yt/uploads/2017/12/qseebigscreen.jpg"><img src="https://static.yourtech.us/yt/uploads/2017/12/qseebigscreen-300x169.jpg" alt="" width="300" height="169" class="alignleft size-medium wp-image-538" /></a>
+<a href="https://static.yourtech.us/yt/uploads/2017/12/qseebigscreen.jpg"><img src="https://static.yourtech.us/yt/uploads/2017/12/qseebigscreen-300x169.jpg" alt="" width="300" height="169" class="size-medium wp-image-538" /></a>
 
 </p>
 
