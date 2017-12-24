@@ -9,7 +9,7 @@ permalink: >
   https://www.yourtech.us/2017/first-impressions-with-emacs
 published: true
 ---
-Emacs sucks, but it's probably super amazing. 
+Learning emacs really sucks. Let's do this. 
 
 ## My current stack
 
@@ -17,7 +17,7 @@ Because I'm insane, I decided to give Emacs a try. While I'm still pretty please
 
 ## Why I'm looking at Emacs
 
-For years, I've been hearing amazing things about [orgmode](http://orgmode.org/). It's used for todo lists, project planning, documents, and [journals](https://github.com/bastibe/org-journal). People also like using emacs as an [python ide](https://robots.thoughtbot.com/emacs-as-a-python-ide). Everyone that uses emacs seems to really like it, and it keeps showing up as a good looking solution to different problems I'd like to solve. There's even a [slack client](https://github.com/yuya373/emacs-slack) for it. I decided that I should really give emacs a shot before discarding any solution because it happened to be emacs based. You see, emacs has a super steep learning curve, and when you use it.. you essentially join a cult. 
+For years, I've been hearing amazing things about [orgmode](http://orgmode.org/). It's used for todo lists, project planning, documents, and [journals](https://github.com/bastibe/org-journal). People also like using emacs as an [python ide](https://robots.thoughtbot.com/emacs-as-a-python-ide). Everyone that uses emacs seems to really like it, and it keeps showing up as a good looking solution to different problems I'd like to solve. There's even a [slack client](https://github.com/yuya373/emacs-slack) for it. I decided that I should really give emacs a shot before discarding any solution because it happened to be emacs based. You see, emacs has a super steep learning curve, and when you use it, you essentially join a cult. 
 
 ## Round 1
 
@@ -86,3 +86,5 @@ If you type `< s <TAB>`, it expands to a ‘src’ code block:
 I only did some basic outlining, but it seemed workable. I can see emacs/orgmode possibly replacing quiver as my primary notebook. It won't be easy, because quiver has a this nice feature were you just start writing a note and that note may or may not get a title. There is no need to save that note to a file, because it's saved within the quiver datastore. Emacs will want me to save a file for each note. 
 
 Probably a next step is to test out the orgmode-journal. After that, dive into [orgmode and Getting Things Done](http://members.optusnet.com.au/~charles57/GTD/orgmode.html). If I can put my omnifocus tasks into emacs and use it as a daily work notebook, then this time invested so far won't be entirely put to waste.
+
+Follow up: I came across this [orgmode day planner approach](http://newartisans.com/2007/08/using-org-mode-as-a-day-planner/), which seems even more workable than the GTD approach linked above.
