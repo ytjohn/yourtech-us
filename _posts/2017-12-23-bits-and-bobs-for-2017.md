@@ -17,7 +17,7 @@ I cover a couple different things in this post, find the section you want.
 * Financial Tools (quicken, ledger, hledger, beancount)
 
 
-## Security Cameras
+# Security Cameras
 
 tl;dr - I recommend [Q-See NVR](http://a.co/gdkgDtR), refurbished 16-channel for $250 with 2TB drive
 
@@ -49,7 +49,7 @@ Downsides: There is a downside in that accessing it with a web browser sucks - o
 The other downside is that I couldn't get my analog dvr added to the system. This isn't too big of a downer, because I'm going to replace those analog 480p cams with the higher quality 720p ESCams (maybe eventually 1080p cams). 
 
 
-## Finances
+# Finances
 
 tl;dr - I'm going to switch from Quicken to [beancount](http://furius.ca/beancount/) for double-entry plain-text accounting. 
 
