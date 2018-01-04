@@ -9,6 +9,7 @@ permalink: >
   https://www.yourtech.us/2018/mocking-consul-for-fun-and-profit
 published: true
 ---
+
 I've been creating a fun microservice tool that provides a single API frontend and merges data from multiple backends. Since the app itself relies entirely on external data, I was wondering how in the world I would write unit tests for it. It's written in python using the amazing [apistar](https://github.com/encode/apistar) framework. All of my external data so far is gathered using the [requests](http://docs.python-requests.org/en/master/) library. The answer for this, turns out to [requests-mock](http://requests-mock.readthedocs.io/). Requests-mock will allow you create mock responses to requests. 
 
 The documentation is pretty straightforward, but I was having some trouble wrapping my head around how I would use it to test the code in my app. To start simple, I decided to mock [consul](https://www.consul.io/), which is one of my datasources.
@@ -53,7 +54,7 @@ You may be wondering why "Value" is `YmFy`. That's because consul uses base64 en
 
 ## Read consul with python requests
 
-Awesome, now I can write a facny python script to show off my foo. Create a file called `requestkey.py`. 
+Awesome, now I can write a fancy python script to show off my foo. Create a file called `requestkey.py`. 
 
 ```
 import base64
@@ -141,7 +142,7 @@ FAILED (failures=1)
 
 This is a problem. My code is still perfectly fine, but because the live data has changed, my test fails. That is what we hope to solve.
 
-## Let's mock collins.
+## Let's mock consul.
 
 As I alluded at the top of my post, I hope to solve this with [requests-mock](http://requests-mock.readthedocs.io/). There's some fancy things I see like registering URIs, but to start, I am just going use the Mocker example they have. It's a good thing I did a curl request earlier to see what the actual response will be. 
 
