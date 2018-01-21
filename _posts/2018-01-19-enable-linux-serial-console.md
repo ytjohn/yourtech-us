@@ -41,3 +41,6 @@ GRUB_TIMEOUT=10
 ```
 ssh &lt;idrac-ip&gt; console com2
 ```
+
+
+#yourtech-dailies
