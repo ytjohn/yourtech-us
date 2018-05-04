@@ -1,12 +1,12 @@
 ---
-ID: 116
-post_title: Cable Combs
+
+title: Cable Combs
 author: ytjohn
-post_date: 2017-04-19 21:50:37
-post_excerpt: ""
+date: 2017-04-19 21:50:37
+
 layout: post
 permalink: https://www.yourtech.us/2017/cable-combs
-published: true
+
 ---
 I've been incrementally updating my home lab, and now I really wish I had a 3D printer. These cable combs look like they would be awesome for when it comes to getting the server rack re-organized.
 

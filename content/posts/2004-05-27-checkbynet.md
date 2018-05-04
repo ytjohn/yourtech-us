@@ -1,12 +1,12 @@
 ---
-ID: 440
-post_title: CheckByNet
+
+title: CheckByNet
 author: ytjohn
-post_date: 2004-05-27 00:05:11
-post_excerpt: ""
+date: 2004-05-27 00:05:11
+
 layout: post
 permalink: https://www.yourtech.us/2004/checkbynet
-published: true
+
 ---
 /*
 echeck.class, Copyright 2004 John Hogenmiller john@hsource.net

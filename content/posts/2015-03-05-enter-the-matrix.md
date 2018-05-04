@@ -1,13 +1,13 @@
 ---
-ID: 32
-post_title: Enter the Matrix
+
+title: Enter the Matrix
 author: ytjohn
-post_date: 2015-03-05 17:58:09
-post_excerpt: ""
+date: 2015-03-05 17:58:09
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2015/enter-the-matrix
-published: true
+
+slug: enter-the-matrix
+
 1:
   - 'a:1:{i:0;s:7:"=======";}'
 2:

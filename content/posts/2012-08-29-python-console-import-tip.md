@@ -1,13 +1,13 @@
 ---
-ID: 64
-post_title: python console import tip
+
+title: python console import tip
 author: ytjohn
-post_date: 2012-08-29 17:58:11
-post_excerpt: ""
+date: 2012-08-29 17:58:11
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2012/python-console-import-tip
-published: true
+
+slug: python-console-import-tip
+
 ---
 Tags: python console, python, import, pysphere
 

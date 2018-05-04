@@ -1,13 +1,13 @@
 ---
-ID: 18
-post_title: Back into programming, monitoring notes
+
+title: Back into programming, monitoring notes
 author: ytjohn
-post_date: 2009-08-25 17:58:09
-post_excerpt: ""
+date: 2009-08-25 17:58:09
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2009/back-into-programming-monitoring-notes
-published: true
+
+slug: back-into-programming-monitoring-notes
+
 ---
 I have been out of the programming circuit for a few years and have been
 looking at getting back into it.  My traditional programming style is an

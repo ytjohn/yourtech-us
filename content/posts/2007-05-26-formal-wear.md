@@ -1,12 +1,12 @@
 ---
-ID: 238
-post_title: Formal Wear
+
+title: Formal Wear
 author: ytjohn
-post_date: 2007-05-26 16:43:40
-post_excerpt: ""
+date: 2007-05-26 16:43:40
+
 layout: post
 permalink: https://www.yourtech.us/2007/formal-wear
-published: true
+
 ---
 A few months ago, I was asked to be an usher at a wedding.  For some reason, I decided "why not?".  I should have thought more about who was making the request.
 I actually do have varying degrees of dress clothes.  I have my military dress uniforms.  I have "business casual" clothes.  I also recently purchased a formal suit to wear the last year's Marine Corp Ball.  However, none of these will work in this wedding's bridal party.  So, I got measured for the official tux outfit.

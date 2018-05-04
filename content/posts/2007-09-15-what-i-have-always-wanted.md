@@ -1,13 +1,13 @@
 ---
-ID: 242
-post_title: What I Have Always Wanted
+
+title: What I Have Always Wanted
 author: ytjohn
-post_date: 2007-09-15 02:36:16
-post_excerpt: ""
+date: 2007-09-15 02:36:16
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2007/what-i-have-always-wanted
-published: true
+
+slug: what-i-have-always-wanted
+
 ---
 When I was a young kid, I was interested in electronics.Ã‚Â  When I got into my early teens, I got into computers.Ã‚Â  Before I could drive, I had an idea that I wanted to start a business dealing with computers.Ã‚Â  I was so cool.. I thought I could write programs in QBASIC and sell them.Ã‚Â  I never did that, but I did start my business.Ã‚Â  First it was a sideline, and things were good.Ã‚Â  Eventually, I felt confident in it and stepped out on my own.Ã‚Â  I did ok, but couldn't make a real success of it.Ã‚Â  As the years dragged on, my money ran out and I was finding it hard for my business to survive, much less thrive.Ã‚Â  A lot of this was my own doing.Ã‚Â  I had some great plans on how to make things more profitable.Ã‚Â Ã‚Â  One plan was to offer classes to people.Ã‚Â  Work up a lesson plan, teach two classes a day of 10 people each.Ã‚Â  Each person pays $65 for the class and you've got $1300 for the week (which was approximately $260 a day for 2 hours each day, assuming 1 hour classes).Ã‚Â Ã‚Â  Another thing I needed and planned on doing was to aggressively market some form of managed service to some of the larger local businesses.Ã‚Â  With just 2 or 3 sustainable contracts, the same number of big companies can keep a smaller company afloat, leaving room for expansion.
 I figured these things out a long time ago.Ã‚Â  Yet I have accomplished neither.Ã‚Â  Why?Ã‚Â  I'll get back to that question in a bit.

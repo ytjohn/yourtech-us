@@ -1,13 +1,13 @@
 ---
-ID: 26
-post_title: Ceph getting acquainted
+
+title: Ceph getting acquainted
 author: ytjohn
-post_date: 2016-01-20 17:58:09
-post_excerpt: ""
+date: 2016-01-20 17:58:09
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2016/ceph-getting-acquainted
-published: true
+
+slug: ceph-getting-acquainted
+
 ---
 The two key components:
 

@@ -1,12 +1,12 @@
 ---
-ID: 257
-post_title: May Change
+
+title: May Change
 author: ytjohn
-post_date: 2008-05-05 02:46:17
-post_excerpt: ""
+date: 2008-05-05 02:46:17
+
 layout: post
 permalink: https://www.yourtech.us/2008/may-change
-published: true
+
 ---
 For only 5 days into May, it's been fairly eventful.
 Robin is graduating this month -- the <a href="http://www.sqbnet.net/pics/v/2008/05/">pinning ceremony</a> was on the 2nd and her graduation is on the 10th.Â  Of course, before she even got to go to her pinning ceremony, I had a few questions for her.Â  The first question (both chronologically and in order of importance) was "<a href="http://www.sqbnet.net/pics/v/2008/05/Engagement/The+Ring.JPG.html" target="_blank">Does it fit</a>?" (it did) and the second question was "<a href="http://www.sqbnet.net/pics/v/2008/05/Engagement/Just+the+two+of+us.JPG.html" target="_blank">Do you want to be my wife</a>?" (to which the answer was "<a href="http://www.sqbnet.net/pics/v/2008/05/Engagement/Robin_+as+she+truly+is.JPG.html" target="_blank">Of Course</a>!").

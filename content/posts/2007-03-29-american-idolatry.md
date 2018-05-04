@@ -1,13 +1,13 @@
 ---
-ID: 235
-post_title: American Idolatry
+
+title: American Idolatry
 author: ytjohn
-post_date: 2007-03-29 23:35:50
-post_excerpt: ""
+date: 2007-03-29 23:35:50
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2007/american-idolatry
-published: true
+
+slug: american-idolatry
+
 ---
 For those of you that are like me and don't have television service, American Idol is apparently a pretty popular tv show.  I read that it's been running for about six seasons now.  What's more is that I've actually seen parts of about 3 or 4 episodes over the last several years.
 The premise is that people (presumably American, but I'm not an expert on this subject) will do karaoke performances on the show, judges will judge them, and then other people will vote for the contestant that they want to stay on the show.  The last person standing gets the title of American Idol along with a record deal.

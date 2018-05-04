@@ -1,13 +1,13 @@
 ---
-ID: 16
-post_title: All about git pull
+
+title: All about git pull
 author: ytjohn
-post_date: 2014-11-09 17:58:09
-post_excerpt: ""
+date: 2014-11-09 17:58:09
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2014/all-about-git-pull
-published: true
+
+slug: all-about-git-pull
+
 ---
 ## All about git pull
 

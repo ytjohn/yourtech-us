@@ -1,13 +1,13 @@
 ---
-ID: 251
-post_title: Falling Forward
+
+title: Falling Forward
 author: ytjohn
-post_date: 2007-12-14 22:52:51
-post_excerpt: ""
+date: 2007-12-14 22:52:51
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2007/falling-forward
-published: true
+
+slug: falling-forward
+
 ---
 I've been relatively busy recently.  Obviously, there is work, which takes up about half of my week.  But I've also been working on a few projects -- not related to computers.
 My house has 22 windows: 12 downstairs, 10 upstairs,  All but 9 of these windows are older single pane.  Six of them face the neighbor's house -- 4 feet away.  For the downstairs, I've slated 6 windows for removal.  Over the last few weekends I've been boarding them over on the outside -- not the typical "hurricane safety" boarding up, but precisely cutting the OSB to size and attaching it to the outside of the window frame.  The outside is boraded up and now needs painted to match the exterior.  My plans keep changing as I go along.  On the inside, I have insulated and framed three of the windows.  I've now permanently "en-framed" my air conditioner into the house (the air conditioner can be changed out if needed).  I've worked out a nice way of covering the air conditioner in the winter without tape/plastic -- it involves paneling, specially threaded bolts set into the framing, Styrofoam, and wing-nuts.  I've also worked out a way to setup some shelving in the window's cavity.

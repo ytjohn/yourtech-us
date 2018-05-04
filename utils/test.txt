@@ -1,0 +1,11 @@
+---
+
+title: GMRS is pretty cheap and easy
+author: ytjohn
+
+layout: post
+
+url: gmrs-for-fun
+
+date: 2018-01-28 18:29:52
+---

@@ -1,13 +1,13 @@
 ---
-ID: 110
-post_title: documenting my homelab with openDCIM
+
+title: documenting my homelab with openDCIM
 author: ytjohn
-post_date: 2017-03-28 21:50:36
-post_excerpt: ""
+date: 2017-03-28 21:50:36
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2017/documenting-my-homelab-with-opendcim
-published: true
+
+slug: documenting-my-homelab-with-opendcim
+
 ---
 ## Background
 

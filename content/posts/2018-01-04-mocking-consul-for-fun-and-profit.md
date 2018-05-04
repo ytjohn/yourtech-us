@@ -1,13 +1,13 @@
 ---
-ID: 562
-post_title: Mocking Consul for fun and profit.
+
+title: Mocking Consul for fun and profit.
 author: ytjohn
-post_date: 2018-01-04 12:45:06
-post_excerpt: ""
+date: 2018-01-04 12:45:06
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2018/mocking-consul-for-fun-and-profit
-published: true
+
+slug: mocking-consul-for-fun-and-profit
+
 ---
 
 I've been creating a fun microservice tool that provides a single API frontend and merges data from multiple backends. Since the app itself relies entirely on external data, I was wondering how in the world I would write unit tests for it. It's written in python using the amazing [apistar](https://github.com/encode/apistar) framework. All of my external data so far is gathered using the [requests](http://docs.python-requests.org/en/master/) library. The answer for this, turns out to [requests-mock](http://requests-mock.readthedocs.io/). Requests-mock will allow you create mock responses to requests. 

@@ -1,13 +1,13 @@
 ---
-ID: 78
-post_title: Upgrade Redmine
+
+title: Upgrade Redmine
 author: ytjohn
-post_date: 2012-08-09 17:58:11
-post_excerpt: ""
+date: 2012-08-09 17:58:11
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2012/upgrade-redmine
-published: true
+
+slug: upgrade-redmine
+
 ---
 Currently, I have Redmine version redmine 1.3.3 installed via the
 <a href="https://launchpad.net/~ondrej/+archive/redmine" title="ppa:ondrej/redmine">ondrej/redmine PPA</a>. I have been wanting to upgrade to the 2.x series

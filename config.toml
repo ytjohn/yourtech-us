@@ -1,4 +1,56 @@
-baseURL = "http://example.org/"
+# Hugo variables
+#
+baseurl = "http://localhost:1313"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "ananke"
+title = "YourTech"
+theme = "hyde-hyde"
+# theme = "hyde"
+# theme = "after-dark"
+
+# number of posts to show on home/category/tag pages (Default: 10)
+paginate = 5
+# optionally override the site's footer with custom copyright text
+# copyright = "Except where otherwise noted, content on this site is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/)."
+#googleAnalytics = "UA-123-45"
+#disqusShortname = "XYW"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[taxonomies]
+   tag = "tags"
+   category = "categories"
+
+[permalinks]
+  posts = "/:slug/"
+  page = "/:slug/"
+
+## Site Settings
+[params]
+    author = "John Hogenmiller"
+    title = "YourTech"
+    description = "Just your average, ordinary, everyday, super admin."
+    authorimage = "/img/ytjohnthumbnail.png"
+    dateformat = "2006-01-02"
+    highlightjs = true
+    highlightjsstyle = "github"
+    themeColor = "theme-base-0b"
+    # layoutReverse = true
+## Social Accounts
+[params.social]
+    github = "ytjohn"
+    twitter = "ytjohn"
+    stackoverflow = "ytjohn"
+    email = "john@yourtech.us"
+
+## Main Menu
+[[menu.main]]
+    name = "Posts"
+    weight = 100
+    identifier = "posts"
+    url = "/posts/"
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 200
+    url = "/about/"

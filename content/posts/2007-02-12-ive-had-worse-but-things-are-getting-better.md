@@ -1,13 +1,13 @@
 ---
-ID: 227
-post_title: 'I&#8217;ve had worse, but things are getting better.'
+
+title: 'I&#8217;ve had worse, but things are getting better.'
 author: ytjohn
-post_date: 2007-02-12 19:33:16
-post_excerpt: ""
+date: 2007-02-12 19:33:16
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2007/ive-had-worse-but-things-are-getting-better
-published: true
+
+slug: ive-had-worse-but-things-are-getting-better
+
 ---
 So the last several weeks weren't the worst I've had.Ã‚Â  I've been in some pretty messed up situations before.Ã‚Â  That being said, the last few weeks sucked. I ran out of oil, so no heat or hot water, my car went on the fritz, Robin wrecked her car, and some new bills started coming my way.
 So first let me tell you about the car.Ã‚Â  I had some bald tires due to a bad alignment, plus the steering was sloppy.Ã‚Â  I put two new tires on the car (making all 4 new again), then got the axle bushings replaced in the front.Ã‚Â  Once I got the car back from that, I took it back to the tire shop to get a 4-wheel alignment. With this last bit of work, the entire front end has been completely redone.Ã‚Â  The axle bushings were the only part of the front end that had never been replaced.Ã‚Â  I was feeling good about this car -- since 2002, this car has not broken down or stranded me once (with the exception of some bad/cheap tires I put on it back in November popping open on me -- my fault).Ã‚Â  The next day, the car overheats in front of Wal-Mart and shuts off.Ã‚Â  I get it off to the side of the road, refill the radiator, put in some sealant, and things run hot, but fine for the next couple weeks.

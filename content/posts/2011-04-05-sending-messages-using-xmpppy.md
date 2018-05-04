@@ -1,13 +1,13 @@
 ---
-ID: 74
-post_title: Sending messages using xmpppy
+
+title: Sending messages using xmpppy
 author: ytjohn
-post_date: 2011-04-05 17:58:11
-post_excerpt: ""
+date: 2011-04-05 17:58:11
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2011/sending-messages-using-xmpppy
-published: true
+
+slug: sending-messages-using-xmpppy
+
 ---
 In continuing working with XMPP and Python, I managed to get xmpppy
 working.  

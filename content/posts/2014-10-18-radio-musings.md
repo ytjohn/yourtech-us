@@ -1,13 +1,13 @@
 ---
-ID: 68
-post_title: Radio Musings
+
+title: Radio Musings
 author: ytjohn
-post_date: 2014-10-18 17:58:11
-post_excerpt: ""
+date: 2014-10-18 17:58:11
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2014/radio-musings
-published: true
+
+slug: radio-musings
+
 post-date:
   - 'a:1:{i:0;s:37:"a:1:{i:0;s:19:"2014-10-17 22:25:21";}";}'
 ---

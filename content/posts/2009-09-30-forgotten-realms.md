@@ -1,13 +1,13 @@
 ---
-ID: 44
-post_title: Forgotten Realms
+
+title: Forgotten Realms
 author: ytjohn
-post_date: 2009-09-30 17:58:10
-post_excerpt: ""
+date: 2009-09-30 17:58:10
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2009/forgotten-realms
-published: true
+
+slug: forgotten-realms
+
 ---
 Yesterday I was working on a very old server -- a <a href="http://en.wikipedia.org/wiki/Cobalt_RaQ">Cobalt RAQ 4</a>.  I
 actually leased a RAQ 3 for web hosting back in 2001 and thought it was

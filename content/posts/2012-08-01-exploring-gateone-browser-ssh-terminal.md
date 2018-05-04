@@ -1,13 +1,13 @@
 ---
-ID: 38
-post_title: Exploring GateOne Browser SSH terminal
+
+title: Exploring GateOne Browser SSH terminal
 author: ytjohn
-post_date: 2012-08-01 17:58:09
-post_excerpt: ""
+date: 2012-08-01 17:58:09
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2012/exploring-gateone-browser-ssh-terminal
-published: true
+
+slug: exploring-gateone-browser-ssh-terminal
+
 ---
 I came across a program called <a href="http://liftoffsoftware.com/Products/GateOne">Gate One</a> by LiftOff Software that
 just amazed me. This is an open-source, web-based ssh terminal. It is

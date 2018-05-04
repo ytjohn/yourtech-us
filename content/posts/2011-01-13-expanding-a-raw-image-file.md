@@ -1,13 +1,13 @@
 ---
-ID: 36
-post_title: Expanding a raw image file
+
+title: Expanding a raw image file
 author: ytjohn
-post_date: 2011-01-13 17:58:09
-post_excerpt: ""
+date: 2011-01-13 17:58:09
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2011/expanding-a-raw-image-file
-published: true
+
+slug: expanding-a-raw-image-file
+
 ---
 On one of my customer's devices, the backup software requires that the
 backups go to a separate partition (or drive).  However, the customer

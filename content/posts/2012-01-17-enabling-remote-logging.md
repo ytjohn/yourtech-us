@@ -1,13 +1,13 @@
 ---
-ID: 322
-post_title: Enabling remote logging
+
+title: Enabling remote logging
 author: ytjohn
-post_date: 2012-01-17 11:11:20
-post_excerpt: ""
+date: 2012-01-17 11:11:20
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2012/enabling-remote-logging
-published: true
+
+slug: enabling-remote-logging
+
 ---
 I was experimenting with rsyslog to allow remote logging and within 20 minutes, I had two rogue log entries show up from random hosts.
 

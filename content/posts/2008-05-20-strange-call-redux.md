@@ -1,13 +1,13 @@
 ---
-ID: 255
-post_title: Strange Call Redux
+
+title: Strange Call Redux
 author: ytjohn
-post_date: 2008-05-20 13:55:42
-post_excerpt: ""
+date: 2008-05-20 13:55:42
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2008/strange-call-redux
-published: true
+
+slug: strange-call-redux
+
 ---
 Checking my voicemail:
 

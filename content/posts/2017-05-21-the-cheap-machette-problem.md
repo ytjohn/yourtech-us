@@ -1,13 +1,13 @@
 ---
-ID: 160
-post_title: The Cheap Machete Problem
+
+title: The Cheap Machete Problem
 author: ytjohn
-post_date: 2017-05-21 12:39:51
-post_excerpt: ""
+date: 2017-05-21 12:39:51
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2017/the-cheap-machette-problem
-published: true
+
+slug: the-cheap-machette-problem
+
 ---
 This weekend, I was finally clearing out the bit of walk between my pole barn and the hill behind it. Erosion has been filling it in, making it hard to get back there with any sort of push mower. Vines and brush have been filling in around it. I did what I could with the trimmer, then I went back in with the machete. Now, this machete was $6 at Harbor Freight and I haven't used it much because the cheap plastic handle was starting to break. 
 

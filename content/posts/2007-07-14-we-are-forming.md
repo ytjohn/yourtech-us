@@ -1,13 +1,13 @@
 ---
-ID: 246
-post_title: We are forming
+
+title: We are forming
 author: ytjohn
-post_date: 2007-07-14 00:11:41
-post_excerpt: ""
+date: 2007-07-14 00:11:41
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2007/we-are-forming
-published: true
+
+slug: we-are-forming
+
 ---
 So far, work down here has been pretty good.  I get along with those that I work with, I understand the job, and I've been able to be valuable with some of the knowledge I picked up along the way.
 

@@ -1,13 +1,13 @@
 ---
-ID: 253
-post_title: Move/Game Night, February 22nd
+
+title: Move/Game Night, February 22nd
 author: ytjohn
-post_date: 2008-02-06 17:16:11
-post_excerpt: ""
+date: 2008-02-06 17:16:11
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2008/movegame-night-february-22nd
-published: true
+
+slug: movegame-night-february-22nd
+
 ---
 It's been a couple of months, but the first movie/game night of 2008 is coming soon!
 This month we're having it on a Friday  -- the 22nd of February to be exact, starting  around 6pm with games and potentially migrating to a movie or two.

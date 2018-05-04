@@ -1,12 +1,12 @@
 ---
-ID: 524
-post_title: Camp night
+
+title: Camp night
 author: ytjohn
-post_date: 2017-07-03 00:34:52
-post_excerpt: ""
+date: 2017-07-03 00:34:52
+
 layout: post
 permalink: https://www.yourtech.us/2017/camp-night
-published: true
+
 ---
 My wife and son will be spending the night camping outside. I'd love to join them, but someone has to stay inside and have the entire bed to himself.
 

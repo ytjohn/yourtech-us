@@ -1,13 +1,13 @@
 ---
-ID: 574
-post_title: Ansible Flush Handlers Immediatley
+
+title: Ansible Flush Handlers Immediatley
 author: ytjohn
-post_date: 2018-01-19 15:30:43
-post_excerpt: ""
+date: 2018-01-19 15:30:43
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2018/ansible-flush-handlers-immediatley
-published: true
+
+slug: ansible-flush-handlers-immediatley
+
 ---
 
 ## ansible flush handlers

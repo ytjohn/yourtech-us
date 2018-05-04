@@ -1,13 +1,13 @@
 ---
-ID: 218
-post_title: Even more undignified
+
+title: Even more undignified
 author: ytjohn
-post_date: 2006-11-11 13:06:07
-post_excerpt: ""
+date: 2006-11-11 13:06:07
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2006/even-more-undignified
-published: true
+
+slug: even-more-undignified
+
 ---
 This song is inspired by 2nd Samuel 6.Ã‚Â  At the time, King David was so wrapped up in his worship of God that he was leaping about, dancing and twirling and probably doing some cartwheels in the street. His wife, upon seeing this, was shocked and yelled at him about it.Ã‚Â  David responded "I will play music before the LORD. And I will be even more undignified than this, and will be humble in my own sight. But as for the maidservants of whom you have spoken, by them I will be held in honor."
 David Crowder Band

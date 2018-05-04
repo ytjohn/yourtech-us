@@ -1,13 +1,13 @@
 ---
-ID: 106
-post_title: Worst Practice Lab VM Automation
+
+title: Worst Practice Lab VM Automation
 author: ytjohn
-post_date: 2016-09-05 21:50:36
-post_excerpt: ""
+date: 2016-09-05 21:50:36
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2016/worst-practice-lab-vm-automation
-published: true
+
+slug: worst-practice-lab-vm-automation
+
 ---
 # Worst Practice Lab VM Automation
 

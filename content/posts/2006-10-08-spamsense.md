@@ -1,12 +1,12 @@
 ---
-ID: 215
-post_title: 'It almost makes sense&#8230; SpamSense'
+
+title: 'It almost makes sense&#8230; SpamSense'
 author: ytjohn
-post_date: 2006-10-08 16:10:40
-post_excerpt: ""
+date: 2006-10-08 16:10:40
+
 layout: post
 permalink: https://www.yourtech.us/2006/spamsense
-published: true
+
 ---
 I've been noticing computer generated poetry in spam for a while now, but this one really inspired me.  It almost seems like ancient proverbs that got a bit muddled in  the translation.  "It takes a real fruitcake to avoid contact with the scythe." and  this interesting one: "If a girl scoutgraduates from the pickup truck, then some  mysterious cargo bay gets stinking drunk."Ã‚Â  (We've come a long way from when I first noticed <a title="spam poetry" href="/wp/rants/195">spam poetry</a>.
 

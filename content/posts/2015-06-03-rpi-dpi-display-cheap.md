@@ -1,13 +1,13 @@
 ---
-ID: 70
-post_title: rPI DPI Display, cheap.
+
+title: rPI DPI Display, cheap.
 author: ytjohn
-post_date: 2015-06-03 17:58:11
-post_excerpt: ""
+date: 2015-06-03 17:58:11
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2015/rpi-dpi-display-cheap
-published: true
+
+slug: rpi-dpi-display-cheap
+
 ---
 Recently the internet noticed the Raspberry Pi could drive LCD panels using DPI. This allows very inexpensive displays to be used with basically no additional hardware.
 

@@ -1,13 +1,13 @@
 ---
-ID: 52
-post_title: Markdown Blogging
+
+title: Markdown Blogging
 author: ytjohn
-post_date: 2012-08-06 17:58:10
-post_excerpt: ""
+date: 2012-08-06 17:58:10
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2012/markdown-blogging
-published: true
+
+slug: markdown-blogging
+
 ---
 I recently have started a process of migrating my website over to
 <a href="http://www.blogger.com/">blogger.com</a>. One of the main reasons for this was because in my last

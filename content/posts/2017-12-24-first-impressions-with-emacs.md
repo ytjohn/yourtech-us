@@ -1,13 +1,13 @@
 ---
-ID: 556
-post_title: First impressions with emacs
+
+title: First impressions with emacs
 author: ytjohn
-post_date: 2017-12-24 13:44:38
-post_excerpt: ""
+date: 2017-12-24 13:44:38
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2017/first-impressions-with-emacs
-published: true
+
+slug: first-impressions-with-emacs
+
 ---
 Learning emacs really sucks. Let's do this. 
 

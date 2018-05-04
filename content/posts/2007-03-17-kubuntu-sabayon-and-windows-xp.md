@@ -1,13 +1,13 @@
 ---
-ID: 234
-post_title: Kubuntu, Sabayon, and Windows XP
+
+title: Kubuntu, Sabayon, and Windows XP
 author: ytjohn
-post_date: 2007-03-17 11:08:32
-post_excerpt: ""
+date: 2007-03-17 11:08:32
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2007/kubuntu-sabayon-and-windows-xp
-published: true
+
+slug: kubuntu-sabayon-and-windows-xp
+
 ---
 I have an HP dv1000 Pavilion laptop.  Back in '05/'06, I had this setup with Mepis Linux, dual-booting with Windows XP.  Now the thing about this laptop is that it has a Broadcom wireless card (BCM43xx).  With Mepis, I used ndsiwrapper to get the card working.  However, the screen resolution was never very good, media files would play weird (codes at the time were a bit off, I think), and sometimes when switching wireless networks, the entire system would freeze.  Wireless support was all command-line based (iwlist eht1 scanning) and didn't support WPA encryption.  Because of this and my highly mobile workstyle, I eventually switched back to Windows XP.
 A year has passed and I've been itching to get back to having a linux powered laptop again.  My computer still had a "weird" partitioning scheme left over from various installs of linux/windows/data recovery/whatever.  Plus, Windows was long overdue for a reinstall.  It was time to try Linux again.

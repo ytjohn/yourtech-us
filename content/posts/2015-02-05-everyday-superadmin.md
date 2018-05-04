@@ -1,13 +1,13 @@
 ---
-ID: 34
-post_title: Everyday Superadmin
+
+title: Everyday Superadmin
 author: ytjohn
-post_date: 2015-02-05 17:58:09
-post_excerpt: ""
+date: 2015-02-05 17:58:09
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2015/everyday-superadmin
-published: true
+
+slug: everyday-superadmin
+
 ---
 Every morning I wake up bleary eyed  
 Another victim of aggressive deadlines  

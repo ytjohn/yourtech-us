@@ -1,13 +1,13 @@
 ---
-ID: 30
-post_title: dingus problems
+
+title: dingus problems
 author: ytjohn
-post_date: 2012-09-20 17:58:09
-post_excerpt: ""
+date: 2012-09-20 17:58:09
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2012/dingus-problems
-published: true
+
+slug: dingus-problems
+
 ---
 This weekend I decided to takle both learning Ruby and working with AWS
 via the Ruby API. Having only played with both of these in the past,

@@ -1,13 +1,13 @@
 ---
-ID: 252
-post_title: The Battle Begins!
+
+title: The Battle Begins!
 author: ytjohn
-post_date: 2008-01-03 03:33:31
-post_excerpt: ""
+date: 2008-01-03 03:33:31
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2008/the-battle-begins
-published: true
+
+slug: the-battle-begins
+
 ---
 I always considered myself a somewhat lazy person.  I guess I never really realized how active I was.  I knew I was active in the winter of '06.  I was carrying and climbing ladders, attaching antennas to buildings, pulling cable, and facing off against freezing temperatures on a daily basis.  In January of '07 my activity level decreased as I stopped doing this, but I was still doing other things for other people.  There was always something to carry, or logs to lift up, or oil to pump out of drums.  During that summer, I was still active, but I definitely noticed I wasn't doing as much.
 At the end of June, I took a job that had me sitting on my butt for 9 hours a day, 5 days a week.  In July I was only sitting for 3 or 4 nights a week, but for 12 hours.  My body felt the lack of activity and I took up bike riding to and from work.  This continued on through most of September before petering out by October as winter set in.  I remember in August going to a Marine picnic and being told I looked like I had been working out.

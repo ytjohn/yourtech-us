@@ -1,13 +1,13 @@
 ---
-ID: 46
-post_title: Gate One supervisor script
+
+title: Gate One supervisor script
 author: ytjohn
-post_date: 2012-08-02 17:58:10
-post_excerpt: ""
+date: 2012-08-02 17:58:10
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2012/gate-one-supervisor-script
-published: true
+
+slug: gate-one-supervisor-script
+
 ---
 Yesterday, I <a href="http://blog.yourtech.us/2012/08/exploring-gateone-browser-ssh-terminal.html">setup gateone</a> to run as a non-root user. I also spent
 some time looking at potential init scripts for starting and stopping

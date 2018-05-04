@@ -1,13 +1,13 @@
 ---
-ID: 146
-post_title: All The Changes
+
+title: All The Changes
 author: ytjohn
-post_date: 2017-05-07 13:52:40
-post_excerpt: ""
+date: 2017-05-07 13:52:40
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2017/all-the-changes
-published: true
+
+slug: all-the-changes
+
 ---
 ## tl;dr
 
@@ -50,7 +50,7 @@ NodeBB has a [blog comments plugin] that allows you to use a NodeBB to handle co
 
 This weekend, I decided to pull the plug on YourTech.us and migrate it simultaneously into wordpress and into the new server. I new this would cause downtime, but since my blog is not commercian, and not exactly in the [Alexa Top 500], I wasn't too concerned. If anyone did notice downtime between the 5th and 7th, let me know below.
 
-The move was not without hitches. I did have a markdown copy of all my posts, but I had to add [yaml frontmatter] to the top of them for [github wordpress sync] to work. Then I discovered that the plugin ignores my post_date and just makes all my posts match the time of the sync. Also, using the same repository I had been using in development caused issues as well. But eventually, I got all my posts imported with their original post date.
+The move was not without hitches. I did have a markdown copy of all my posts, but I had to add [yaml frontmatter] to the top of them for [github wordpress sync] to work. Then I discovered that the plugin ignores my date and just makes all my posts match the time of the sync. Also, using the same repository I had been using in development caused issues as well. But eventually, I got all my posts imported with their original post date.
 
 What I didn't import was my resume and personal history. My contact page I did import, but it is rather out of date, so I feel I should update it soon. I want to rethink what I have on all three pages and how I present them, so that's a future project.
  

@@ -1,13 +1,13 @@
 ---
-ID: 220
-post_title: 'November&#8217;s Gone?'
+
+title: 'November&#8217;s Gone?'
 author: ytjohn
-post_date: 2006-12-01 20:49:25
-post_excerpt: ""
+date: 2006-12-01 20:49:25
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2006/novembers-gone
-published: true
+
+slug: novembers-gone
+
 ---
 For my part, I can't believe that August is already here.  Wait.. it's December?  Well, so much for having all that spare time.
 Anyways, I've updated a lot of pictures from the last several months, so feel free to check them out.

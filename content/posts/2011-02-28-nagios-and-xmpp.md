@@ -1,13 +1,13 @@
 ---
-ID: 54
-post_title: Nagios and XMPP
+
+title: Nagios and XMPP
 author: ytjohn
-post_date: 2011-02-28 17:58:10
-post_excerpt: ""
+date: 2011-02-28 17:58:10
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2011/nagios-and-xmpp
-published: true
+
+slug: nagios-and-xmpp
+
 ---
 I found that someone has written a perl script geared towards sending
 alerts from Nagios to XMPP usernames.

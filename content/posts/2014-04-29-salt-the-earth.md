@@ -1,13 +1,13 @@
 ---
-ID: 72
-post_title: Salt The Earth
+
+title: Salt The Earth
 author: ytjohn
-post_date: 2014-04-29 17:58:11
-post_excerpt: ""
+date: 2014-04-29 17:58:11
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2014/salt-the-earth
-published: true
+
+slug: salt-the-earth
+
 ---
 ## Learning Salt
 

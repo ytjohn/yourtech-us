@@ -1,13 +1,13 @@
 ---
-ID: 222
-post_title: Ghosts of the Past
+
+title: Ghosts of the Past
 author: ytjohn
-post_date: 2007-01-17 21:29:03
-post_excerpt: ""
+date: 2007-01-17 21:29:03
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2007/ghosts-of-the-past
-published: true
+
+slug: ghosts-of-the-past
+
 ---
 For those of you that don't know -- I live by myself.  Now that winter truly seems to be here, I have only been heating the living room in my house (with a space heater).  The living room has become my office, my bedroom, and my changing room.  This one room stays between 65F and 70F while rest of the house seems to hold around 49F.
 Anyways, I came home tonight and went up to my living room/office to do some work on the computer.  I'm designing a mysql database for a recurring/real-time ISP billing system that I am writing when my gaim pops up and this "ann" is messaging me.  I am dumbfounded as to who it could be.  She obviously knows me, but how do I know her?  Slowly, it hits me.  This is Minnesota Ann!  Actually, I thought it was Missouri Ann (I get those M states confused all the time), but she soon set me straight.    But let me tell you about Minnesota Ann.  Ann is "my first".  By that, I mean she is the first person that I met online that I talked to more than once.  I met her on IRCNet in either late '97 or early '98.  She introduced me to Skeletor1/Mike and #cool_teens.  She was the first girl I ever knew that had a bot.

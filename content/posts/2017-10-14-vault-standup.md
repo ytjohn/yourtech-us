@@ -1,13 +1,13 @@
 ---
-ID: 530
-post_title: Vault Standup
+
+title: Vault Standup
 author: ytjohn
-post_date: 2017-10-14 02:18:59
-post_excerpt: ""
+date: 2017-10-14 02:18:59
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2017/vault-standup
-published: true
+
+slug: vault-standup
+
 ---
 This is a little walkthrough of settng up a "production-like" vault server with etcd backend (Not really production, no TLS and one person with all the keys). [Hashicorp Vault](https://www.vaultproject.io/) is incredibly easy to setup. Going through the dev walkthrough is pretty easy, but when you want to get a little more advanced, you start getting bounced around the documentation. So these are my notes of setting up a vault server with an etcd backend and a few policies/tokens for access. Consider this part 1, and in "part 2", I'll setup an ldap backend.
 

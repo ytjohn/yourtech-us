@@ -1,12 +1,12 @@
 ---
-ID: 231
-post_title: PEX Master
+
+title: PEX Master
 author: ytjohn
-post_date: 2007-02-19 18:33:19
-post_excerpt: ""
+date: 2007-02-19 18:33:19
+
 layout: post
 permalink: https://www.yourtech.us/2007/pex-master
-published: true
+
 ---
 i just wanted to say some amazing things about PEX piping.  This stuff is simple, and it works.  I'm not a marketing guys, but here's some things I love about it:
 

@@ -1,13 +1,13 @@
 ---
-ID: 219
-post_title: End of the year
+
+title: End of the year
 author: ytjohn
-post_date: 2006-12-31 18:54:32
-post_excerpt: ""
+date: 2006-12-31 18:54:32
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2006/end-of-the-year
-published: true
+
+slug: end-of-the-year
+
 ---
 Several interesting things (to me at least) have occurred recently.Ã‚Â  For the most part I've been spending my time doing wireless installs and network troubleshooting for Skyweb down in Berkeley Springs.
 Robin and her family has had a few rough spots recently.Ã‚Â  Her Uncle Lonnie died on the 20th, we had the viewing on the 22nd and the funeral the next day.Ã‚Â   The day after, she nailed a deer with her car, and then the day after that, her sister's fiance's great grandfather died.

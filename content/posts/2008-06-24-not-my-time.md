@@ -1,12 +1,12 @@
 ---
-ID: 256
-post_title: Not My Time
+
+title: Not My Time
 author: ytjohn
-post_date: 2008-06-24 16:51:48
-post_excerpt: ""
+date: 2008-06-24 16:51:48
+
 layout: post
 permalink: https://www.yourtech.us/2008/not-my-time
-published: true
+
 ---
 (unless your talking about my worst time).
 Today the dream has ended and the fantasy has been washed away.  After keeping the pace for a whopping 0.2 miles, my shins hurt and I just couldn't make myself go on running.  So began my walk home.  It's been many months since the elliptical, over a year since I ran anywhere.  Riding the bike did little more than delude myself. A 2 mile bike ride on flat ground is not exercise, it's just a way to make you think that you're doing something good.

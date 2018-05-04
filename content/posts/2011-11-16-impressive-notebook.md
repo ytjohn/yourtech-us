@@ -1,13 +1,13 @@
 ---
-ID: 312
-post_title: Impressive Notebook
+
+title: Impressive Notebook
 author: ytjohn
-post_date: 2011-11-16 05:59:00
-post_excerpt: ""
+date: 2011-11-16 05:59:00
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2011/impressive-notebook
-published: true
+
+slug: impressive-notebook
+
 ---
 Those of you that know me probably wouldn't guess this, but I actually work with a bunch of nerds, geeks, and freaks. Pretty much all of my coworkers have smartphones, and many of them have at least one tablet. Every time a new portable computing device launches, it's a guarantee that someone in my group will show up with it. Since all these devices are nearly similar, no one is really impressed when a new one shows up in the office.
 

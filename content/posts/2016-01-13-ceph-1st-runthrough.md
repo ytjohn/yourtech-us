@@ -1,27 +1,27 @@
 ---
-ID: 24
-post_title: Ceph 1st Runthrough
+
+title: Ceph 1st Runthrough
 author: ytjohn
-post_date: 2016-01-13 17:58:09
-post_excerpt: ""
+date: 2016-01-13 17:58:09
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2016/ceph-1st-runthrough
-published: true
+
+slug: ceph-1st-runthrough
+
 1:
   - 'a:1:{i:0;s:7:"=======";}'
 2:
   - 'a:1:{i:0;s:55:">>>>>>> rollback1:raw/2016-01-13-ceph-1st-runthrough.md";}'
 ---
 ---
-ID: 34
-post_title: Ceph 1st Runthrough
+
+title: Ceph 1st Runthrough
 author: ytjohn
-post_date: 2017-04-30 21:42:52
-post_excerpt: ""
+date: 2017-04-30 21:42:52
+
 layout: post
 permalink: https://new.yourtech.us/?p=34
-published: true
+
 ---
 These are just some notes I took as I did my first run through on installing Ceph on some spare [ECS Hardware](http://www.emc.com/storage/ecs/index.htm) I had access to. Note that currently, no one would actually recommend doing this, but it was a good way for me to get started with Ceph.
 

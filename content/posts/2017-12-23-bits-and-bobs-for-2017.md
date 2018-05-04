@@ -1,13 +1,13 @@
 ---
-ID: 534
-post_title: bits and bobs for 2017
+
+title: bits and bobs for 2017
 author: ytjohn
-post_date: 2017-12-23 18:34:09
-post_excerpt: ""
+date: 2017-12-23 18:34:09
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2017/bits-and-bobs-for-2017
-published: true
+
+slug: bits-and-bobs-for-2017
+
 ---
 Abusing my blog to record a few things. This is kind of a year-end wrap-up before Christmas, or a pre-pre New Years Eve post. I am off work till the end of the year, so this is kind of a good week to reflect and prepare for the upcoming year.
 

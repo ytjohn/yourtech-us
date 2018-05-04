@@ -1,13 +1,13 @@
 ---
-ID: 82
-post_title: We have moved!
+
+title: We have moved!
 author: ytjohn
-post_date: 2010-09-06 17:58:11
-post_excerpt: ""
+date: 2010-09-06 17:58:11
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2010/we-have-moved
-published: true
+
+slug: we-have-moved
+
 ---
 Starting around Memorial Day, we have been busy working on moving our
 office to our new location in Bedford, PA.  We have now completed that

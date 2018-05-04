@@ -1,13 +1,13 @@
 ---
-ID: 254
-post_title: Strange Calls
+
+title: Strange Calls
 author: ytjohn
-post_date: 2008-03-25 23:30:44
-post_excerpt: ""
+date: 2008-03-25 23:30:44
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2008/strange-calls
-published: true
+
+slug: strange-calls
+
 ---
 I was in Anne Arundel County on Friday and Saturday.
 On Monday, I get a missed call from Hanover, MD on the cell phone.Ã‚Â  I call it back later in the day thinking it's either a friend or familyÃ‚Â  or a family member in the area.Ã‚Â  A "Jim" answers the phone and has no clue who I am or that he called my number.

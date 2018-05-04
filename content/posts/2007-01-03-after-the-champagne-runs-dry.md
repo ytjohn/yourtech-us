@@ -1,13 +1,13 @@
 ---
-ID: 225
-post_title: After the champagne runs dry
+
+title: After the champagne runs dry
 author: ytjohn
-post_date: 2007-01-03 04:54:34
-post_excerpt: ""
+date: 2007-01-03 04:54:34
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2007/after-the-champagne-runs-dry
-published: true
+
+slug: after-the-champagne-runs-dry
+
 ---
 New Year's Eve 2006 has come and gone.  My "party" if you can still call it that was a lot smaller than planned, but still an enjoyable evening.
 The end of December has given me a lot of  of time to reflect on the past year or so, on where I am, and think about what I want to do next.

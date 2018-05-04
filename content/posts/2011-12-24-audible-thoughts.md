@@ -1,13 +1,13 @@
 ---
-ID: 320
-post_title: Audible Thoughts
+
+title: Audible Thoughts
 author: ytjohn
-post_date: 2011-12-24 19:11:54
-post_excerpt: ""
+date: 2011-12-24 19:11:54
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2011/audible-thoughts
-published: true
+
+slug: audible-thoughts
+
 ---
 Recently, I've been working my way through the Ender's Saga audio books. I had read Ender's Game back in grade school, but I didn't know there was a whole series. They're a really good read.. or listen, as the case may be.
 

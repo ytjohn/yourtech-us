@@ -1,13 +1,13 @@
 ---
-ID: 221
-post_title: How to write more better
+
+title: How to write more better
 author: ytjohn
-post_date: 2006-12-22 22:25:29
-post_excerpt: ""
+date: 2006-12-22 22:25:29
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2006/how-to-write-more-better
-published: true
+
+slug: how-to-write-more-better
+
 ---
 <ol>
 <li>Always avoid alliteration.</li>

@@ -1,12 +1,12 @@
 ---
-ID: 7
-post_title: Backing up with duplicity and Amazon S3
+
+title: Backing up with duplicity and Amazon S3
 author: ytjohn
-post_date: 2009-10-26 17:58:08
-post_excerpt: ""
+date: 2009-10-26 17:58:08
+
 layout: post
 permalink: https://www.yourtech.us/?p=7
-published: true
+
 ---
 [Duplicity] is a great little backup tool that can do incremental
 backups to a variety of different servers (ftp, scp, and Amazon S3).   
@@ -92,7 +92,7 @@ of rogue system admins at Amazon).
     Real name: Backup Key
     Email address: anything@example.com
     Comment: Backup key for duplicity  
-    You selected this USER-ID:           "Backup Key (Backup key for duplicity) <anything@example.com>"
+    You selected this USER-
     Change (N)ame, (C)omment, (E)mail or (O)kay/(Q)uit? O
     You need a Passphrase to protect your secret key.    
     

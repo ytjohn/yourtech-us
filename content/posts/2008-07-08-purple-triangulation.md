@@ -1,13 +1,13 @@
 ---
-ID: 258
-post_title: Purple Triangulation
+
+title: Purple Triangulation
 author: ytjohn
-post_date: 2008-07-08 21:37:45
-post_excerpt: ""
+date: 2008-07-08 21:37:45
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2008/purple-triangulation
-published: true
+
+slug: purple-triangulation
+
 ---
 So I've been noticing these purple triangles have been invading our trees.  Along the roads, trees would be found with this big hollow purple triangle hanging off of it.
 <a href="http://www.sqbnet.net/pics/v/2008/07/Triangulation/DSC00233.JPG.html"><img src="http://www.sqbnet.net/pics/d/252420-2/DSC00233.JPG" alt="High triangle" width="150" height="113" /></a><a href="http://www.sqbnet.net/pics/v/2008/07/Triangulation/DSC00234.JPG.html"><img src="http://www.sqbnet.net/pics/d/252424-1/DSC00234.JPG" alt="Close up" width="150" height="113" /></a>

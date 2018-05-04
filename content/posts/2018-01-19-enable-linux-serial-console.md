@@ -1,13 +1,13 @@
 ---
-ID: 571
-post_title: Enable linux serial console
+
+title: Enable linux serial console
 author: ytjohn
-post_date: 2018-01-19 12:40:36
-post_excerpt: ""
+date: 2018-01-19 12:40:36
+
 layout: post
-permalink: >
-  https://www.yourtech.us/2018/enable-linux-serial-console
-published: true
+
+slug: enable-linux-serial-console
+
 ---
 ## Serial port console
 
